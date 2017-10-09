@@ -1,0 +1,2 @@
+# RepoDigger
+open hardcore
